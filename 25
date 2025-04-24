@@ -1,4 +1,4 @@
 num1=90
-num2=40
+num2=
 sum=num1+num2
 print(sum)
